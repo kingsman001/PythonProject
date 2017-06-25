@@ -14,7 +14,8 @@ num = int(guess)
 print(value)
 '''
 
-'''guess the number 8'''
+'''guess the number that I have put, which is 8.'''
+
 while num!=8:
 
         if num<8:
